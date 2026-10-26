@@ -12,6 +12,9 @@ A beginner-friendly portfolio project combining Python, NLP, statistics, probabi
 ## Important model limitation
 The bundled model is trained on a tiny, hand-written demonstration dataset. It is a learning prototype, not a production-ready sentiment model. Results may be inaccurate for sarcasm, domain-specific wording, mixed sentiment, or languages other than English. For credible evaluation, collect a representative labelled dataset, create a separate train/test split, compare baselines, and report precision, recall, F1-score, and confusion matrix.
 
+## Live demo
+[Open the Streamlit dashboard](https://customer-feedback-sentiment-zmtwbo68na4vdwjf3viqbd.streamlit.app/)
+
 ## Requirements
 - Python 3.10 or newer recommended
 - pip
