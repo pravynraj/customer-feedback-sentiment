@@ -1,0 +1,13 @@
+text,sentiment
+"The product is excellent and works perfectly",positive
+"Very happy with the quality and quick delivery",positive
+"Customer support was helpful and friendly",positive
+"Easy to use and worth the price",positive
+"The product is terrible and stopped working",negative
+"Very disappointed with the poor quality",negative
+"Delivery was late and the package was damaged",negative
+"The app crashes constantly and is frustrating",negative
+"The product is okay, nothing special",neutral
+"It arrived yesterday and I have tried it once",neutral
+"The service has standard features",neutral
+"It works as described",neutral
